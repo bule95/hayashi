@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Z45A App</string>
+    <string name="model_name">機種名</string>
+    <string name="bt_address">BTアドレス</string>
+    <string name="frm_no">FRMnumber</string>
+
+</resources>
